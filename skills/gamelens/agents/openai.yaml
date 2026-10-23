@@ -1,0 +1,3 @@
+interface:
+  display_name: "GameLens"
+  short_description: "按任务适配游戏拆解、Excel 字段与指定图片，归档并复用可追溯证据"
